@@ -4,16 +4,16 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/Hasnaingu/GURU-BOT",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
-      "required": false,
+      "description": "mongodb+srv://menula:menula2008@cluster0.gbkxq8m.mongodb.net/",
+      "required": true,
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "Guru_938b6b05-171e-4106-8a9d-c8bab0926d14",
       "required": true,
       "value": ""
     },
@@ -24,7 +24,7 @@
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
-      "required": false,
+      "required": .,
       "value": ""
     },
      "HKEY": {
@@ -33,7 +33,7 @@
       "value": ""
     },
      "HAPP": {
-      "description": "Put the Heroku app name, same as above entered",
+      "description": (GURU-BOT)",
       "required": true,
       "value": ""
     },
