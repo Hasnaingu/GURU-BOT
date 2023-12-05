@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "whatsapp-bot (hasnain-gull4)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -28,12 +28,12 @@
       "value": ""
     },
      "HKEY": {
-      "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
+      "description": "598cdcfb-d31d-4f4c-b3ea-f82e3ab2872e",
       "required": true,
       "value": ""
     },
      "HAPP": {
-      "description": (GURU-BOT)",
+      "description": (hasnain-gull4)",
       "required": true,
       "value": ""
     },
