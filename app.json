@@ -9,13 +9,13 @@
   "env": {
     "DATABASE_URL": {
       "description": "your mongodb database url",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "mongodb+srv://menula:menula2008@cluster0.gbkxq8m.mongodb.net/"
     },
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Guru_50088faf-b843-4c3a-82d5-1a49f8d30514"
     },
     "MODE": {
       "description": "mode public or private",
@@ -30,7 +30,7 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "2b8c51ec-4552-4753-8ee0-0a35870a3e2b"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
